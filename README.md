@@ -6,11 +6,13 @@ Web developer, app designer, visual designer, logos, branding, data analysis & v
 
 ## the site of course
 
-version 1.0.0 - first release, added main components of the website and styles
+### versions
+1.0.0 - first release, added main components of the website and styles
+1.0.1 - minor edits to fix content as well as licensing and README
 
 *mobile compatibility coming soon :)*
 
-## features
+### features
 * cursor replaced with dynamic circle icon, for aesthetic purposes (scriptless browsers have functionality too)
 * carousel to say welcome in many languages, sorry if they're wrong as it's google translate
 * scroll down animation
