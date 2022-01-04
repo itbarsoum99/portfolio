@@ -4,6 +4,8 @@
 
 Web developer, app designer, visual designer, logos, branding, data analysis & visualization, scripting, and more! I'm a 15-year-old front-end developer and freelancer from N.C., U.S.
 
+"Do not go gentle into that good night. / Rage, rage against the dying of the light."  -Dylan Thomas
+
 ## the site of course
 
 ### versions
@@ -24,7 +26,6 @@ Web developer, app designer, visual designer, logos, branding, data analysis & v
 * design process
 * my contact info (coming soon)
 
-"Do not go gentle into that good night. / Rage, rage against the dying of the light."  -Dylan Thomas
 
 ## legal
 
