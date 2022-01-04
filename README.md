@@ -10,6 +10,7 @@ Web developer, app designer, visual designer, logos, branding, data analysis & v
 
 ### versions
 1.0.0 - first release, added main components of the website and styles
+
 1.0.1 - minor edits to fix content as well as licensing and README
 
 *mobile compatibility coming soon :)*
