@@ -13,6 +13,8 @@ Web developer, app designer, visual designer, logos, branding, data analysis & v
 
 1.0.1 - minor edits to fix content as well as licensing and README
 
+1.0.2 - fixed mission box overflow bug
+
 *mobile compatibility coming soon :)*
 
 ### features
