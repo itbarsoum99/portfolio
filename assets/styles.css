@@ -486,6 +486,11 @@ a {
   background-color: #222233;
 }
 
+#debbarsoum-column {
+  background-image: url(/assets/debbarsoum.png);
+  background-color: #444455;
+}
+
 
 /* blockquote */
 /* center the blockquote in the page */

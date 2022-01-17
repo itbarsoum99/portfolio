@@ -15,6 +15,8 @@ Web developer, app designer, visual designer, logos, branding, data analysis & v
 
 1.0.2 - fixed mission box overflow bug
 
+1.1.0 - added new project
+
 *mobile compatibility coming soon :)*
 
 ### features
