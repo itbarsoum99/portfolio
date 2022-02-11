@@ -1,19 +1,20 @@
 #challenge-img {
-  background-image: url(graduation.png);
+  background-image: url(tasksview.png);
   background-color: #355c7d;
 }
 
 #role-img {
-  background-image: url(visdesign.png);
+  background-image: url(logo.png);
   background-color: #355c7d;
 }
 
 #role-img-2 {
-  background-image: url(visdesign.png);
+  background-image: url(logo.png);
   background-color: #355c7d;
 }
 
 #results-img {
+  background-image: url(notesview.png);
   background-color: #355c7d;
 
 }
