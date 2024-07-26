@@ -2,7 +2,7 @@
 
 ## me
 
-Web developer, app designer, visual designer, logos, branding, data analysis & visualization, scripting, and more! I'm a 15-year-old front-end developer and freelancer from N.C., U.S.
+Web developer, app designer, visual designer, logos, branding, data analysis & visualization, scripting, and more! I'm a 17-year-old front-end developer and freelancer from N.C., U.S.
 
 "Do not go gentle into that good night. / Rage, rage against the dying of the light."  -Dylan Thomas
 
